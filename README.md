@@ -71,12 +71,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
-# This is a level 1 heading!
-## This is a level 2 heading!
-### This is a level 3 heading!
-#### This is a level 4 heading!
-##### This is a level 5 heading!
-###### This is a level 6 heading!
 ---
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
